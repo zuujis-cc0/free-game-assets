@@ -194,6 +194,16 @@ file can be opened and saved on its own (**Download raw file** on GitHub). {tota
 Looking for more? [MORE-CC0.md](MORE-CC0.md) lists other places with public-domain game art, 3D models, textures,
 skies and sound effects (Kenney, Quaternius, KayKit, Poly Haven, ambientCG and more), checked to be CC0.
 
+## How to help
+
+- **Use the assets** and [tell us about your project](https://github.com/{OWNER}/free-game-assets/issues/new?template=asset-use.yml): it shows what is worth making next.
+- **Report problems**: a file that will not open, a wrong preview, a broken link ([problem template](https://github.com/{OWNER}/free-game-assets/issues/new?template=problem.yml)).
+- **Offer assets** you made, or CC0 work you can link the licence for: start with an [issue](https://github.com/{OWNER}/free-game-assets/issues/new?template=new-assets.yml), then see [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Good first issues**: [labelled ones](https://github.com/{OWNER}/free-game-assets/issues?q=is%3Aopen+label%3A%22good+first+issue%22) are small and well described.
+
+Questions: [SUPPORT.md](SUPPORT.md). Who decides what: [GOVERNANCE.md](GOVERNANCE.md). Everyone taking part follows the
+[code of conduct](CODE_OF_CONDUCT.md); report problems privately with the [form on games.zuujis.com](https://games.zuujis.com/report).
+
 ## Licence and credits
 
 Everything in these packs is dedicated to the public domain under [CC0 1.0](LICENSE): see [CREDITS.md](CREDITS.md)
