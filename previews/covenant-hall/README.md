@@ -2,7 +2,7 @@
 
 All 30 in-game levels and four original source keyframes.
 
-[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-covenant-hall.zip)
+[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujis-cc0/free-game-assets/releases/download/v1.0.0/zuujis-covenant-hall.zip)
 
 ## Source Keyframes
 

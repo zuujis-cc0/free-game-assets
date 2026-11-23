@@ -6,7 +6,7 @@ import sys
 from urllib.error import URLError
 from urllib.request import Request, urlopen
 
-API = "https://api.github.com/repos/zuujiscom/free-game-assets"
+API = "https://api.github.com/repos/zuujis-cc0/free-game-assets"
 
 
 def github_pages(path):

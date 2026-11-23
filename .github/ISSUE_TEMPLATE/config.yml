@@ -1,13 +1,13 @@
 blank_issues_enabled: true
 contact_links:
   - name: Browse the assets
-    url: https://github.com/zuujiscom/free-game-assets#readme
+    url: https://github.com/zuujis-cc0/free-game-assets#readme
     about: Every pack, its previews, its ZIP and each file on its own.
   - name: Play games made with them
     url: https://games.zuujis.com
     about: Zuujis Games, where these assets are used.
   - name: Questions and ideas
-    url: https://github.com/zuujiscom/free-game-assets/discussions
+    url: https://github.com/zuujis-cc0/free-game-assets/discussions
     about: Ask, share what you made, or suggest packs in Discussions.
   - name: Report a conduct problem privately
     url: https://games.zuujis.com/report

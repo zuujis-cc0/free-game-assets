@@ -2,7 +2,7 @@
 
 All six scenes composited, plus each individual parallax layer and all cloud sprites.
 
-[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-parallax-backgrounds.zip)
+[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujis-cc0/free-game-assets/releases/download/v1.0.0/zuujis-parallax-backgrounds.zip)
 
 **Full scenes**
 

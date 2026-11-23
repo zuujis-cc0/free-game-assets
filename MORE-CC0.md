@@ -40,4 +40,4 @@ Other places with public-domain **CC0** assets that are useful for making games.
 | [512 Sound Effects, 8-bit style (SubspaceAudio)](https://opengameart.org/content/512-sound-effects-8-bit-style) | A neatly sorted retro sound collection |
 | [Freesound, CC0 only](https://freesound.org/search/?f=license:%22Creative+Commons+0%22) | A huge sound library, searched for CC0 sounds only. Other sounds there need credit or bar commercial use, so keep the filter on |
 
-Know a good CC0 source we're missing? [Open an issue](https://github.com/zuujiscom/free-game-assets/issues/new).
+Know a good CC0 source we're missing? [Open an issue](https://github.com/zuujis-cc0/free-game-assets/issues/new).

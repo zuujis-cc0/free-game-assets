@@ -5,25 +5,25 @@ mostly about licences and about files that open cleanly everywhere.
 
 ## How the collection is laid out
 
-- **This repository** ([free-game-assets](https://github.com/zuujiscom/free-game-assets)) ties everything together:
+- **This repository** ([free-game-assets](https://github.com/zuujis-cc0/free-game-assets)) ties everything together:
   the README, the preview galleries in [previews/](previews/README.md), the licence and credits, the checks in
-  [scripts/](scripts/), and the ZIP downloads on the [releases page](https://github.com/zuujiscom/free-game-assets/releases).
+  [scripts/](scripts/), and the ZIP downloads on the [releases page](https://github.com/zuujis-cc0/free-game-assets/releases).
 - **Each pack's files** live in a repository of their own, so this one stays quick to clone:
-  [aircraft](https://github.com/zuujiscom/free-game-assets-aircraft) ·
-  [from-the-ground-up](https://github.com/zuujiscom/free-game-assets-from-the-ground-up) ·
-  [backgrounds](https://github.com/zuujiscom/free-game-assets-backgrounds) ·
-  [icons](https://github.com/zuujiscom/free-game-assets-icons) ·
-  [effects](https://github.com/zuujiscom/free-game-assets-effects) ·
-  [covenant-hall](https://github.com/zuujiscom/free-game-assets-covenant-hall) ·
-  [tarot](https://github.com/zuujiscom/free-game-assets-tarot) ·
-  [game scripts and starters](https://github.com/zuujiscom/zuujis-game-scripts).
+  [aircraft](https://github.com/zuujis-cc0/free-game-assets-aircraft) ·
+  [from-the-ground-up](https://github.com/zuujis-cc0/free-game-assets-from-the-ground-up) ·
+  [backgrounds](https://github.com/zuujis-cc0/free-game-assets-backgrounds) ·
+  [icons](https://github.com/zuujis-cc0/free-game-assets-icons) ·
+  [effects](https://github.com/zuujis-cc0/free-game-assets-effects) ·
+  [covenant-hall](https://github.com/zuujis-cc0/free-game-assets-covenant-hall) ·
+  [tarot](https://github.com/zuujis-cc0/free-game-assets-tarot) ·
+  [game scripts and starters](https://github.com/zuujis-cc0/zuujis-game-scripts).
 
 Fixing or improving a file in a pack: open the pull request on that pack's repository. Previews, the README, the
 credits or the checks: open it here.
 
 ## Offering new assets
 
-1. **Open an issue first** with the [New assets template](https://github.com/zuujiscom/free-game-assets/issues/new?template=new-assets.yml),
+1. **Open an issue first** with the [New assets template](https://github.com/zuujis-cc0/free-game-assets/issues/new?template=new-assets.yml),
    so we can agree on where the files go before you do the work. Small fixes need no issue.
 2. **Only what you have the right to give.** Your own work, or work already under CC0 whose source you can link.
    No AI output from services whose terms limit how it may be used, no ripped game assets, no fan art of other
@@ -50,7 +50,7 @@ In the game scripts repository, `python3 scripts/smoke.py` plays every starter i
 ## Reporting a problem
 
 A file that will not open, looks wrong, or a licence question: use the
-[Problem template](https://github.com/zuujiscom/free-game-assets/issues/new?template=problem.yml). If you think
+[Problem template](https://github.com/zuujis-cc0/free-game-assets/issues/new?template=problem.yml). If you think
 something here is not ours to give away, say so there and we will take it down while we look.
 
 Please follow the [code of conduct](CODE_OF_CONDUCT.md).
