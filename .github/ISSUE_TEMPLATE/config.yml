@@ -6,3 +6,9 @@ contact_links:
   - name: Play games made with them
     url: https://games.zuujis.com
     about: Zuujis Games, where these assets are used.
+  - name: Questions and ideas
+    url: https://github.com/zuujiscom/free-game-assets/discussions
+    about: Ask, share what you made, or suggest packs in Discussions.
+  - name: Report a conduct problem privately
+    url: https://games.zuujis.com/report
+    about: The private form; you don't need an account and may stay anonymous.
