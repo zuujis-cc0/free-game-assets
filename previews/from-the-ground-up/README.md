@@ -2,7 +2,7 @@
 
 Every released sprite and menu image. Each building upgrade is shown separately.
 
-[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-from-the-ground-up-2d.zip)
+[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujis-cc0/free-game-assets/releases/download/v1.0.0/zuujis-from-the-ground-up-2d.zip)
 
 ## Menu Artwork
 

@@ -14,7 +14,8 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OWNER = "zuujiscom"
+OWNER = "zuujis-cc0"
+REPO_FILES = {"README.md", ".gitignore", "LICENSE", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md", "SECURITY.md", "SUPPORT.md"}
 RELEASE = f"https://github.com/{OWNER}/free-game-assets/releases/download/v1.0.0"
 
 # slug, title, pack repository, ZIP name (v1.0.0 release), size, what it holds
@@ -48,8 +49,9 @@ def tree(repo):
         data = json.load(r)
     if data.get("truncated"):
         raise SystemExit(f"{repo}: GitHub truncated the file list")
-    return sorted(t["path"] for t in data["tree"] if t["type"] == "blob" and t["path"] not in
-                  ("README.md", ".gitignore"))
+    # Each repository's own files (licence, community files, .github/) are not part of the pack.
+    return sorted(t["path"] for t in data["tree"] if t["type"] == "blob" and t["path"] not in REPO_FILES
+                  and not t["path"].startswith(".github/"))
 
 
 def blob(repo, path):

@@ -1,7 +1,7 @@
 # Governance
 
 How decisions are made for the Zuujis free game assets: this repository, the pack repositories
-(`zuujiscom/free-game-assets-*`) and [zuujis-game-scripts](https://github.com/zuujiscom/zuujis-game-scripts).
+(`zuujis-cc0/free-game-assets-*`) and [zuujis-game-scripts](https://github.com/zuujis-cc0/zuujis-game-scripts).
 
 ## Goal
 
@@ -11,7 +11,7 @@ previews, and credit for who made it.
 
 ## Roles
 
-- **Maintainer**: [@zuujiscom](https://github.com/zuujiscom) (Zuujis) owns the repositories, merges pull requests,
+- **Maintainer**: [@zuujiscom](https://github.com/zuujiscom) (Zuujis) owns the [zuujis-cc0](https://github.com/zuujis-cc0) organisation, merges pull requests,
   publishes releases and decides when there is no agreement. The maintainer also enforces the
   [code of conduct](CODE_OF_CONDUCT.md).
 - **Contributors**: anyone who opens an issue, comments, reviews, or sends a pull request. Thank you.
@@ -21,7 +21,7 @@ previews, and credit for who made it.
 ## How decisions are made
 
 - Small fixes (a damaged file, a typo, a broken link): any maintainer merges them once the checks pass.
-- New assets and new packs: discussed in an issue first ([new assets template](https://github.com/zuujiscom/free-game-assets/issues/new?template=new-assets.yml)),
+- New assets and new packs: discussed in an issue first ([new assets template](https://github.com/zuujis-cc0/free-game-assets/issues/new?template=new-assets.yml)),
   so rights and fit are settled before the work is done.
 - Changes to the rules (licence, file formats, these documents): proposed in an issue or pull request and left open
   for comments for at least a week, then decided by the maintainer.

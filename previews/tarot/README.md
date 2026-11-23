@@ -2,7 +2,7 @@
 
 All 478 image files, including alternate designs and both RWS resolutions.
 
-[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-tarot-art.zip)
+[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujis-cc0/free-game-assets/releases/download/v1.0.0/zuujis-tarot-art.zip)
 
 ## RWS High Res
 

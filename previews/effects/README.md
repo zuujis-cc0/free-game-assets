@@ -2,7 +2,7 @@
 
 Five sampled frames per effect on the contact sheets. All 48 original sequences are also available as animated previews.
 
-[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-pixel-effects.zip)
+[Back to all packs](../../README.md) · [Download ZIP](https://github.com/zuujis-cc0/free-game-assets/releases/download/v1.0.0/zuujis-pixel-effects.zip)
 
 [Browse all 48 animated previews](animation-index.md)
 
