@@ -18,7 +18,7 @@ Public-domain **CC0** game assets, including 24 free 3D aircraft models in GLB a
 | [zuujis-tarot-art.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-tarot-art.zip) | 478 Tarot image files, including variants and resolutions | [Preview](previews/tarot/README.md) |
 | [zuujis-covenant-hall.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-covenant-hall.zip) | 30 building sprites and four source keyframes | [Preview](previews/covenant-hall/README.md) |
 
-The aircraft are self-contained glTF 2.0 binary models. They can be imported into Blender, Three.js, or other tools that support GLB. The Tarot download includes high-resolution images and is the largest pack.
+The aircraft are self-contained glTF 2.0 binary models. [Download any aircraft individually](previews/aircraft/README.md#individual-downloads). They can be imported into Blender, Three.js, or other tools that support GLB. The Tarot download includes high-resolution images and is the largest pack.
 
 [CC0 terms](LICENSE) · [Creator credits](CREDITS.md) · [All releases](https://github.com/zuujiscom/free-game-assets/releases)
 

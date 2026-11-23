@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Show GitHub ZIP download totals and distinct accounts reporting asset use."""
+"""Show GitHub asset download totals and distinct accounts reporting asset use."""
 import json
 import re
 import sys
@@ -27,7 +27,7 @@ def stats():
             continue
         for asset in github_pages(f"releases/{release['id']}/assets?per_page=100"):
             name = asset["name"]
-            if name.endswith(".zip"):
+            if name.endswith((".zip", ".glb")):
                 counts[name] = counts.get(name, 0) + asset["download_count"]
     reports = [
         issue
@@ -46,10 +46,12 @@ def main():
     except (URLError, TimeoutError, ValueError, KeyError) as error:
         print(f"Could not read GitHub statistics: {error}", file=sys.stderr)
         return 1
-    print("ZIP downloads by pack (all releases)")
-    for name, count in sorted(counts.items(), key=lambda item: (-item[1], item[0])):
-        print(f"  {count:>6,}  {name}")
-    print(f"\nTotal ZIP downloads: {sum(counts.values()):,}")
+    for extension, title in ((".zip", "ZIP downloads by pack"), (".glb", "Individual GLB downloads by model")):
+        group = [(name, count) for name, count in counts.items() if name.endswith(extension)]
+        print(f"{title} (all releases)")
+        for name, count in sorted(group, key=lambda item: (-item[1], item[0])):
+            print(f"  {count:>6,}  {name}")
+        print(f"  Total: {sum(count for _, count in group):,}\n")
     print(f"Project-use reports: {report_count:,}")
     print(f"Distinct GitHub accounts reporting use: {reporter_count:,}")
     print("\nDownload totals include repeats. Reports are voluntary.")
