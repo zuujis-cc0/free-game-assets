@@ -1,10 +1,10 @@
 # Zuujis free game assets
 
-Public-domain **CC0** game assets, including 24 free 3D aircraft models in GLB and six packs of 2D artwork. Use them in commercial or personal games. Credit is optional.
+Public-domain **CC0** game assets, including 24 free 3D aircraft models in GLB, six packs of 2D artwork, and the game scripts and starters that use them. Use them in commercial or personal games. Credit is optional.
 
 ![Four aircraft from the 3D pack](preview-aircraft.png)
 
-**[Browse previews for all seven packs](previews/README.md)**
+**[Browse previews for the seven art packs](previews/README.md)**
 
 ## Downloads
 
@@ -17,6 +17,7 @@ Public-domain **CC0** game assets, including 24 free 3D aircraft models in GLB a
 | [zuujis-pixel-effects.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-pixel-effects.zip) | 48 effects strips with frame descriptions | [Preview](previews/effects/README.md) |
 | [zuujis-tarot-art.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-tarot-art.zip) | 478 Tarot image files, including variants and resolutions | [Preview](previews/tarot/README.md) |
 | [zuujis-covenant-hall.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-covenant-hall.zip) | 30 building sprites and four source keyframes | [Preview](previews/covenant-hall/README.md) |
+| [zuujis-game-scripts.zip](https://github.com/zuujiscom/free-game-assets/releases/download/v1.1.0/zuujis-game-scripts.zip) | Game scripts (gamepad, touch-ready starters, sound, sprites, isometric and 3D towns, racing, fighting, flight) with the asset library they use and 15 playable starters | [Scripts](game-scripts/README.md) |
 
 The aircraft are self-contained glTF 2.0 binary models. [Download any aircraft individually](previews/aircraft/README.md#individual-downloads). They can be imported into Blender, Three.js, or other tools that support GLB. The Tarot download includes high-resolution images and is the largest pack.
 

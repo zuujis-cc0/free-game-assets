@@ -5,3 +5,7 @@ On November 23, 2026, the Zuujis owner dedicated the copyright and related right
 All downloadable packs in the first release are credited **Created by Codex for Zuujis**. The Covenant Hall variants were generated from Codex's keyframes. Credit is optional.
 
 Aircraft names identify the subjects of the models. CC0 covers rights that Zuujis holds in the files. It does not grant trademark rights or imply manufacturer endorsement.
+
+## Game scripts
+
+The `game-*.js` scripts and the starters were made for Zuujis and are dedicated to the public domain under CC0 1.0 with the rest of this collection. three.js is included under its MIT licence (© 2010-2024 three.js authors). The asset library inside `zuujis-game-scripts.zip` lists each pack's source and licence in `assets/manifest.json`; the Kenney packs are CC0 by Kenney (kenney.nl), and Instrument Sans is under the SIL Open Font License 1.1.

@@ -26,6 +26,7 @@ body:
         - Pixel effects
         - Tarot artwork
         - Covenant Hall
+        - Game scripts
     validations:
       required: true
   - type: input
