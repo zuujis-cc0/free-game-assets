@@ -29,8 +29,7 @@ file can be opened and saved on its own (**Download raw file** on GitHub). 1167 
 **[⬇ Download ZIP · 4.2 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-aircraft-glb.zip)** · **[Every file: free-game-assets-aircraft](https://github.com/zuujiscom/free-game-assets-aircraft)** · [Full preview gallery](previews/aircraft/README.md)
 
 <p>
-<img src="previews/aircraft/aircraft-01.webp" width="49%" alt="aircraft preview 1">
-<img src="previews/aircraft/aircraft-02.webp" width="49%" alt="aircraft preview 2">
+<img src="previews/aircraft/aircraft-01.webp" width="70%" alt="aircraft preview 1">
 </p>
 
 <details>
@@ -42,6 +41,15 @@ file can be opened and saved on its own (**Download raw file** on GitHub). 1167 
 <tr><td align="center"><img src="previews/aircraft/individual/f86.webp" width="150" alt="f86"><br><b>F86</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/f86.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/f86/f86.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/fa18.webp" width="150" alt="fa18"><br><b>FA18</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/fa18.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/fa18/fa18.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/g650.webp" width="150" alt="g650"><br><b>G650</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/g650.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/g650/g650.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/gripen.webp" width="150" alt="gripen"><br><b>GRIPEN</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/gripen.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/gripen/gripen.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/lj45.webp" width="150" alt="lj45"><br><b>LJ45</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/lj45.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/lj45/lj45.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/mig15.webp" width="150" alt="mig15"><br><b>MIG15</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/mig15.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/mig15/mig15.glb">in repo</a></td></tr>
 <tr><td align="center"><img src="previews/aircraft/individual/mig29.webp" width="150" alt="mig29"><br><b>MIG29</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/mig29.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/mig29/mig29.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/rafale.webp" width="150" alt="rafale"><br><b>RAFALE</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/rafale.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/rafale/rafale.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/spitfire.webp" width="150" alt="spitfire"><br><b>SPITFIRE</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/spitfire.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/spitfire/mkvii.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/su27.webp" width="150" alt="su27"><br><b>SU27</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/su27.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/su27/su27.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/t38.webp" width="150" alt="t38"><br><b>T38</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/t38.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/t38/t38.glb">in repo</a></td><td align="center"><img src="previews/aircraft/individual/typhoon.webp" width="150" alt="typhoon"><br><b>TYPHOON</b><br><a href="https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/typhoon.glb">GLB</a> · <a href="https://github.com/zuujiscom/free-game-assets-aircraft/blob/main/models/typhoon/typhoon.glb">in repo</a></td></tr>
 </table>
+
+</details>
+
+<details>
+<summary>1 more preview sheets</summary>
+
+<p>
+<img src="previews/aircraft/aircraft-02.webp" width="49%" alt="aircraft preview 1">
+</p>
 
 </details>
 
@@ -157,30 +165,30 @@ Painted city-builder art: buildings at several levels, people, props, interface 
 **[⬇ Download ZIP · 12.4 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-from-the-ground-up-2d.zip)** · **[Every file: free-game-assets-from-the-ground-up](https://github.com/zuujiscom/free-game-assets-from-the-ground-up)** · [Full preview gallery](previews/from-the-ground-up/README.md)
 
 <p>
-<img src="previews/from-the-ground-up/buildings-01.webp" width="49%" alt="from-the-ground-up preview 1">
-<img src="previews/from-the-ground-up/buildings-02.webp" width="49%" alt="from-the-ground-up preview 2">
+<img src="previews/from-the-ground-up/buildings-01.webp" width="70%" alt="from-the-ground-up preview 1">
 </p>
 
 <details>
-<summary>16 more preview sheets</summary>
+<summary>17 more preview sheets</summary>
 
 <p>
-<img src="previews/from-the-ground-up/buildings-03.webp" width="49%" alt="from-the-ground-up preview 1">
-<img src="previews/from-the-ground-up/buildings-04.webp" width="49%" alt="from-the-ground-up preview 2">
-<img src="previews/from-the-ground-up/buildings-05.webp" width="49%" alt="from-the-ground-up preview 3">
-<img src="previews/from-the-ground-up/buildings-06.webp" width="49%" alt="from-the-ground-up preview 4">
-<img src="previews/from-the-ground-up/buildings-07.webp" width="49%" alt="from-the-ground-up preview 5">
-<img src="previews/from-the-ground-up/buildings-08.webp" width="49%" alt="from-the-ground-up preview 6">
-<img src="previews/from-the-ground-up/icons-01.webp" width="49%" alt="from-the-ground-up preview 7">
-<img src="previews/from-the-ground-up/icons-02.webp" width="49%" alt="from-the-ground-up preview 8">
-<img src="previews/from-the-ground-up/icons-03.webp" width="49%" alt="from-the-ground-up preview 9">
-<img src="previews/from-the-ground-up/landmarks-01.webp" width="49%" alt="from-the-ground-up preview 10">
-<img src="previews/from-the-ground-up/menu-artwork-01.webp" width="49%" alt="from-the-ground-up preview 11">
-<img src="previews/from-the-ground-up/people-01.webp" width="49%" alt="from-the-ground-up preview 12">
-<img src="previews/from-the-ground-up/props-01.webp" width="49%" alt="from-the-ground-up preview 13">
-<img src="previews/from-the-ground-up/props-02.webp" width="49%" alt="from-the-ground-up preview 14">
-<img src="previews/from-the-ground-up/props-03.webp" width="49%" alt="from-the-ground-up preview 15">
-<img src="previews/from-the-ground-up/tower-01.webp" width="49%" alt="from-the-ground-up preview 16">
+<img src="previews/from-the-ground-up/buildings-02.webp" width="49%" alt="from-the-ground-up preview 1">
+<img src="previews/from-the-ground-up/buildings-03.webp" width="49%" alt="from-the-ground-up preview 2">
+<img src="previews/from-the-ground-up/buildings-04.webp" width="49%" alt="from-the-ground-up preview 3">
+<img src="previews/from-the-ground-up/buildings-05.webp" width="49%" alt="from-the-ground-up preview 4">
+<img src="previews/from-the-ground-up/buildings-06.webp" width="49%" alt="from-the-ground-up preview 5">
+<img src="previews/from-the-ground-up/buildings-07.webp" width="49%" alt="from-the-ground-up preview 6">
+<img src="previews/from-the-ground-up/buildings-08.webp" width="49%" alt="from-the-ground-up preview 7">
+<img src="previews/from-the-ground-up/icons-01.webp" width="49%" alt="from-the-ground-up preview 8">
+<img src="previews/from-the-ground-up/icons-02.webp" width="49%" alt="from-the-ground-up preview 9">
+<img src="previews/from-the-ground-up/icons-03.webp" width="49%" alt="from-the-ground-up preview 10">
+<img src="previews/from-the-ground-up/landmarks-01.webp" width="49%" alt="from-the-ground-up preview 11">
+<img src="previews/from-the-ground-up/menu-artwork-01.webp" width="49%" alt="from-the-ground-up preview 12">
+<img src="previews/from-the-ground-up/people-01.webp" width="49%" alt="from-the-ground-up preview 13">
+<img src="previews/from-the-ground-up/props-01.webp" width="49%" alt="from-the-ground-up preview 14">
+<img src="previews/from-the-ground-up/props-02.webp" width="49%" alt="from-the-ground-up preview 15">
+<img src="previews/from-the-ground-up/props-03.webp" width="49%" alt="from-the-ground-up preview 16">
+<img src="previews/from-the-ground-up/tower-01.webp" width="49%" alt="from-the-ground-up preview 17">
 </p>
 
 </details>
@@ -229,21 +237,21 @@ Six layered parallax scenes (meadow, forest, desert, snow, city at night, alien 
 **[⬇ Download ZIP · 3.6 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-parallax-backgrounds.zip)** · **[Every file: free-game-assets-backgrounds](https://github.com/zuujiscom/free-game-assets-backgrounds)** · [Full preview gallery](previews/backgrounds/README.md)
 
 <p>
-<img src="previews/backgrounds/alien-planet-layers-01.webp" width="49%" alt="backgrounds preview 1">
-<img src="previews/backgrounds/city-night-layers-01.webp" width="49%" alt="backgrounds preview 2">
+<img src="previews/backgrounds/alien-planet-layers-01.webp" width="70%" alt="backgrounds preview 1">
 </p>
 
 <details>
-<summary>7 more preview sheets</summary>
+<summary>8 more preview sheets</summary>
 
 <p>
-<img src="previews/backgrounds/cloud-sprites-01.webp" width="49%" alt="backgrounds preview 1">
-<img src="previews/backgrounds/composited-scenes-01.webp" width="49%" alt="backgrounds preview 2">
-<img src="previews/backgrounds/desert-noon-layers-01.webp" width="49%" alt="backgrounds preview 3">
-<img src="previews/backgrounds/forest-dusk-layers-01.webp" width="49%" alt="backgrounds preview 4">
-<img src="previews/backgrounds/meadow-day-layers-01.webp" width="49%" alt="backgrounds preview 5">
-<img src="previews/backgrounds/publisher-contact-sheet-01.webp" width="49%" alt="backgrounds preview 6">
-<img src="previews/backgrounds/snow-mountains-layers-01.webp" width="49%" alt="backgrounds preview 7">
+<img src="previews/backgrounds/city-night-layers-01.webp" width="49%" alt="backgrounds preview 1">
+<img src="previews/backgrounds/cloud-sprites-01.webp" width="49%" alt="backgrounds preview 2">
+<img src="previews/backgrounds/composited-scenes-01.webp" width="49%" alt="backgrounds preview 3">
+<img src="previews/backgrounds/desert-noon-layers-01.webp" width="49%" alt="backgrounds preview 4">
+<img src="previews/backgrounds/forest-dusk-layers-01.webp" width="49%" alt="backgrounds preview 5">
+<img src="previews/backgrounds/meadow-day-layers-01.webp" width="49%" alt="backgrounds preview 6">
+<img src="previews/backgrounds/publisher-contact-sheet-01.webp" width="49%" alt="backgrounds preview 7">
+<img src="previews/backgrounds/snow-mountains-layers-01.webp" width="49%" alt="backgrounds preview 8">
 </p>
 
 </details>
@@ -292,16 +300,16 @@ Six layered parallax scenes (meadow, forest, desert, snow, city at night, alien 
 **[⬇ Download ZIP · 4.5 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-game-icons.zip)** · **[Every file: free-game-assets-icons](https://github.com/zuujiscom/free-game-assets-icons)** · [Full preview gallery](previews/icons/README.md)
 
 <p>
-<img src="previews/icons/individual-icons-01.webp" width="49%" alt="icons preview 1">
-<img src="previews/icons/individual-icons-02.webp" width="49%" alt="icons preview 2">
+<img src="previews/icons/individual-icons-01.webp" width="70%" alt="icons preview 1">
 </p>
 
 <details>
-<summary>2 more preview sheets</summary>
+<summary>3 more preview sheets</summary>
 
 <p>
-<img src="previews/icons/individual-icons-03.webp" width="49%" alt="icons preview 1">
-<img src="previews/icons/individual-icons-04.webp" width="49%" alt="icons preview 2">
+<img src="previews/icons/individual-icons-02.webp" width="49%" alt="icons preview 1">
+<img src="previews/icons/individual-icons-03.webp" width="49%" alt="icons preview 2">
+<img src="previews/icons/individual-icons-04.webp" width="49%" alt="icons preview 3">
 </p>
 
 </details>
@@ -326,20 +334,20 @@ Six layered parallax scenes (meadow, forest, desert, snow, city at night, alien 
 **[⬇ Download ZIP · 165 KB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-pixel-effects.zip)** · **[Every file: free-game-assets-effects](https://github.com/zuujiscom/free-game-assets-effects)** · [Full preview gallery](previews/effects/README.md)
 
 <p>
-<img src="previews/effects/elements-01.webp" width="49%" alt="effects preview 1">
-<img src="previews/effects/explosions-01.webp" width="49%" alt="effects preview 2">
+<img src="previews/effects/elements-01.webp" width="70%" alt="effects preview 1">
 </p>
 
 <details>
-<summary>6 more preview sheets</summary>
+<summary>7 more preview sheets</summary>
 
 <p>
-<img src="previews/effects/impacts-01.webp" width="49%" alt="effects preview 1">
-<img src="previews/effects/lightning-01.webp" width="49%" alt="effects preview 2">
-<img src="previews/effects/magic-01.webp" width="49%" alt="effects preview 3">
-<img src="previews/effects/sci-fi-01.webp" width="49%" alt="effects preview 4">
-<img src="previews/effects/smoke-01.webp" width="49%" alt="effects preview 5">
-<img src="previews/effects/splatters-01.webp" width="49%" alt="effects preview 6">
+<img src="previews/effects/explosions-01.webp" width="49%" alt="effects preview 1">
+<img src="previews/effects/impacts-01.webp" width="49%" alt="effects preview 2">
+<img src="previews/effects/lightning-01.webp" width="49%" alt="effects preview 3">
+<img src="previews/effects/magic-01.webp" width="49%" alt="effects preview 4">
+<img src="previews/effects/sci-fi-01.webp" width="49%" alt="effects preview 5">
+<img src="previews/effects/smoke-01.webp" width="49%" alt="effects preview 6">
+<img src="previews/effects/splatters-01.webp" width="49%" alt="effects preview 7">
 </p>
 
 </details>
@@ -552,15 +560,15 @@ Six layered parallax scenes (meadow, forest, desert, snow, city at night, alien 
 **[⬇ Download ZIP · 17 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-covenant-hall.zip)** · **[Every file: free-game-assets-covenant-hall](https://github.com/zuujiscom/free-game-assets-covenant-hall)** · [Full preview gallery](previews/covenant-hall/README.md)
 
 <p>
-<img src="previews/covenant-hall/source-keyframes-01.webp" width="49%" alt="covenant-hall preview 1">
-<img src="previews/covenant-hall/sprites-01.webp" width="49%" alt="covenant-hall preview 2">
+<img src="previews/covenant-hall/source-keyframes-01.webp" width="70%" alt="covenant-hall preview 1">
 </p>
 
 <details>
-<summary>1 more preview sheets</summary>
+<summary>2 more preview sheets</summary>
 
 <p>
-<img src="previews/covenant-hall/sprites-02.webp" width="49%" alt="covenant-hall preview 1">
+<img src="previews/covenant-hall/sprites-01.webp" width="49%" alt="covenant-hall preview 1">
+<img src="previews/covenant-hall/sprites-02.webp" width="49%" alt="covenant-hall preview 2">
 </p>
 
 </details>
@@ -589,34 +597,34 @@ Six layered parallax scenes (meadow, forest, desert, snow, city at night, alien 
 **[⬇ Download ZIP · 927 MB](https://github.com/zuujiscom/free-game-assets/releases/download/v1.0.0/zuujis-tarot-art.zip)** · **[Every file: free-game-assets-tarot](https://github.com/zuujiscom/free-game-assets-tarot)** · [Full preview gallery](previews/tarot/README.md)
 
 <p>
-<img src="previews/tarot/alternate-designs-01.webp" width="49%" alt="tarot preview 1">
-<img src="previews/tarot/alternate-designs-02.webp" width="49%" alt="tarot preview 2">
+<img src="previews/tarot/alternate-designs-01.webp" width="70%" alt="tarot preview 1">
 </p>
 
 <details>
-<summary>20 more preview sheets</summary>
+<summary>21 more preview sheets</summary>
 
 <p>
-<img src="previews/tarot/alternate-designs-03.webp" width="49%" alt="tarot preview 1">
-<img src="previews/tarot/alternate-designs-04.webp" width="49%" alt="tarot preview 2">
-<img src="previews/tarot/alternate-designs-05.webp" width="49%" alt="tarot preview 3">
-<img src="previews/tarot/alternate-designs-06.webp" width="49%" alt="tarot preview 4">
-<img src="previews/tarot/alternate-designs-07.webp" width="49%" alt="tarot preview 5">
-<img src="previews/tarot/alternate-designs-08.webp" width="49%" alt="tarot preview 6">
-<img src="previews/tarot/alternate-designs-09.webp" width="49%" alt="tarot preview 7">
-<img src="previews/tarot/alternate-designs-10.webp" width="49%" alt="tarot preview 8">
-<img src="previews/tarot/alternate-designs-11.webp" width="49%" alt="tarot preview 9">
-<img src="previews/tarot/alternate-designs-12.webp" width="49%" alt="tarot preview 10">
-<img src="previews/tarot/alternate-designs-13.webp" width="49%" alt="tarot preview 11">
-<img src="previews/tarot/rws-high-res-01.webp" width="49%" alt="tarot preview 12">
-<img src="previews/tarot/rws-high-res-02.webp" width="49%" alt="tarot preview 13">
-<img src="previews/tarot/rws-high-res-03.webp" width="49%" alt="tarot preview 14">
-<img src="previews/tarot/rws-high-res-04.webp" width="49%" alt="tarot preview 15">
-<img src="previews/tarot/rws-low-res-01.webp" width="49%" alt="tarot preview 16">
-<img src="previews/tarot/rws-low-res-02.webp" width="49%" alt="tarot preview 17">
-<img src="previews/tarot/rws-low-res-03.webp" width="49%" alt="tarot preview 18">
-<img src="previews/tarot/rws-low-res-04.webp" width="49%" alt="tarot preview 19">
-<img src="previews/tarot/tarot-deck-01.webp" width="49%" alt="tarot preview 20">
+<img src="previews/tarot/alternate-designs-02.webp" width="49%" alt="tarot preview 1">
+<img src="previews/tarot/alternate-designs-03.webp" width="49%" alt="tarot preview 2">
+<img src="previews/tarot/alternate-designs-04.webp" width="49%" alt="tarot preview 3">
+<img src="previews/tarot/alternate-designs-05.webp" width="49%" alt="tarot preview 4">
+<img src="previews/tarot/alternate-designs-06.webp" width="49%" alt="tarot preview 5">
+<img src="previews/tarot/alternate-designs-07.webp" width="49%" alt="tarot preview 6">
+<img src="previews/tarot/alternate-designs-08.webp" width="49%" alt="tarot preview 7">
+<img src="previews/tarot/alternate-designs-09.webp" width="49%" alt="tarot preview 8">
+<img src="previews/tarot/alternate-designs-10.webp" width="49%" alt="tarot preview 9">
+<img src="previews/tarot/alternate-designs-11.webp" width="49%" alt="tarot preview 10">
+<img src="previews/tarot/alternate-designs-12.webp" width="49%" alt="tarot preview 11">
+<img src="previews/tarot/alternate-designs-13.webp" width="49%" alt="tarot preview 12">
+<img src="previews/tarot/rws-high-res-01.webp" width="49%" alt="tarot preview 13">
+<img src="previews/tarot/rws-high-res-02.webp" width="49%" alt="tarot preview 14">
+<img src="previews/tarot/rws-high-res-03.webp" width="49%" alt="tarot preview 15">
+<img src="previews/tarot/rws-high-res-04.webp" width="49%" alt="tarot preview 16">
+<img src="previews/tarot/rws-low-res-01.webp" width="49%" alt="tarot preview 17">
+<img src="previews/tarot/rws-low-res-02.webp" width="49%" alt="tarot preview 18">
+<img src="previews/tarot/rws-low-res-03.webp" width="49%" alt="tarot preview 19">
+<img src="previews/tarot/rws-low-res-04.webp" width="49%" alt="tarot preview 20">
+<img src="previews/tarot/tarot-deck-01.webp" width="49%" alt="tarot preview 21">
 </p>
 
 </details>

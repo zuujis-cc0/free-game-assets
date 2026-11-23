@@ -89,7 +89,7 @@ def pictures(slug, names, width):
 
 def pack_section(slug, title, repo, zipname, size, about, files):
     sheets = previews(slug)
-    first, rest = sheets[:2], sheets[2:]
+    first, rest = sheets[:1], sheets[1:]
     lines = [
         f"## {title}",
         "",
@@ -99,7 +99,7 @@ def pack_section(slug, title, repo, zipname, size, about, files):
         f"[Full preview gallery](previews/{slug}/README.md)",
         "",
         "<p>",
-        pictures(slug, first, "49%"),
+        pictures(slug, first, "70%"),
         "</p>",
         "",
     ]
