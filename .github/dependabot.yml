@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # Keeps the pinned GitHub Actions up to date (one grouped pull request).
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "ci(deps)"

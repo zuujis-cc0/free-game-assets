@@ -1,2 +1,4 @@
 dist/
 .DS_Store
+# A global "Icon?" rule (macOS icon files) would also match folders named icons
+!icons

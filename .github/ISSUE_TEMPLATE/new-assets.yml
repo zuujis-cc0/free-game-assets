@@ -1,0 +1,48 @@
+name: Offer new assets
+description: Propose art, models, sounds or fonts to add to the collection (agree on it here before opening a pull request).
+title: '[New assets] '
+labels: ['new-assets']
+body:
+  - type: markdown
+    attributes:
+      value: Everything in this collection is public domain (CC0 1.0). Please read [CONTRIBUTING.md](https://github.com/zuujiscom/free-game-assets/blob/main/CONTRIBUTING.md) first.
+  - type: textarea
+    id: what
+    attributes:
+      label: What are the assets?
+      description: Kind (sprites, 3D models, sounds, fonts, ...), how many files, file types and total size. A screenshot or link to previews helps.
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where should they go?
+      options:
+        - Into an existing pack
+        - A new pack
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: maker
+    attributes:
+      label: Who made them?
+      description: Your name or handle, or the original creator for CC0 work by someone else.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Licence source
+      description: For work by someone else, the page that states it is CC0. Leave empty if you made it yourself.
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights
+      options:
+        - label: I made these myself, or they are already CC0 and I linked where that is stated.
+          required: true
+        - label: I agree that what I contribute is dedicated to the public domain under CC0 1.0.
+          required: true
+        - label: They do not copy other games' assets, characters, logos or brands.
+          required: true
