@@ -1,0 +1,42 @@
+name: Report how you used the assets
+description: Optionally tell Zuujis about a project that uses one or more packs.
+title: '[Asset use] '
+labels: ['asset-use']
+body:
+  - type: markdown
+    attributes:
+      value: This report is optional and public. The assets are available under CC0 whether or not you submit a report. Please share only details you are comfortable making public.
+  - type: input
+    id: project
+    attributes:
+      label: Project name
+      description: You can use a working name for an unreleased project.
+    validations:
+      required: true
+  - type: dropdown
+    id: packs
+    attributes:
+      label: Packs used
+      multiple: true
+      options:
+        - Aircraft models
+        - From the Ground Up
+        - Parallax backgrounds
+        - Game icons
+        - Pixel effects
+        - Tarot artwork
+        - Covenant Hall
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Public project link
+      description: Optional. A project page, repository, video, or screenshot link.
+  - type: textarea
+    id: use
+    attributes:
+      label: How did you use the assets?
+      description: Briefly describe where the assets appear or how you adapted them.
+    validations:
+      required: true

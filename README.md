@@ -21,3 +21,7 @@ Public-domain **CC0** game assets, including 24 free 3D aircraft models in GLB a
 The aircraft are self-contained glTF 2.0 binary models. They can be imported into Blender, Three.js, or other tools that support GLB. The Tarot download includes high-resolution images and is the largest pack.
 
 [CC0 terms](LICENSE) · [Creator credits](CREDITS.md) · [All releases](https://github.com/zuujiscom/free-game-assets/releases)
+
+## Project use
+
+Using an asset in a project? [Share it with Zuujis](https://github.com/zuujiscom/free-game-assets/issues/new?template=asset-use.yml). Reporting use is optional. [See how downloads and reported use are counted](USAGE.md).
